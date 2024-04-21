@@ -29,6 +29,8 @@ struct DailyScrum: Identifiable {
         self.lengthInMinutes = lengthInMinutes
         self.theme = theme
     }
+    
+    var history: [History] = []
 }
 
 extension DailyScrum {

@@ -1,11 +1,6 @@
-//
-//  Theme.swift
-//  Scrumdinger
-//
-//  Created by Антон Адамсон on 19.04.2024.
-//
-
-import SwiftUI
+/*
+ See LICENSE folder for this sample’s licensing information.
+ */
 
 import SwiftUI
 
